@@ -1,0 +1,48 @@
+.con1{
+  display: flex;
+  justify-content: space-between;
+}
+.b{
+  display: flex;
+  
+}
+.c{
+  margin: 10px;
+}
+.a{
+  display: flex;
+}
+#logo{
+  margin-top: 19px;
+  margin-right: 10px;
+  height: 20px;
+  width: 20px;
+}
+#dark{
+  margin-top: 19px;
+  margin-right: 10px;
+  height: 20px;
+  width: 20px;
+}
+.man{
+  border-radius: 999px;
+  width: 100px;
+}
+.con2{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.last{
+  width: 300px;
+  text-align: center;
+}
+.a7{
+  border: 1px solid grey;
+  height: 25px;
+  width: 150px;
+  border-radius: 20px;
+  background-color: grey;
+}
